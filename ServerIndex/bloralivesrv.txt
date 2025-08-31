@@ -1,0 +1,5 @@
+JavaIP=blora.lystech.org
+BedrockIP=blora.lystech.org
+JavaPort=35994
+BedrockPort=35994
+Description=BloraMc's Live Server
