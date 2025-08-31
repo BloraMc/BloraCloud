@@ -1,0 +1,5 @@
+JavaIP=play.trytochill.net
+BedrockIP=play.trytochill.net
+JavaPort=25565
+BedrockPort=25565
+Description=TryToChill Network Bedrock + Java Server
