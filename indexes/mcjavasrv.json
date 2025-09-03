@@ -62,5 +62,37 @@
     "version": "1.20.1+",
     "description": "Modern Practice server with FFA",
     "location": "America/USA"
+  },
+  {
+    "name": "Mineplex",
+    "ip": "us.mineplex.com",
+    "port": 25565,
+    "version": "1.8+",
+    "description": "Classic Minecraft server with minigames",
+    "location": "America/USA"
+  },
+  {
+    "name": "The Hive",
+    "ip": "play.hivemc.com",
+    "port": 25565,
+    "version": "1.8+",
+    "description": "Minigames server with SkyWars, Hide & Seek, and more",
+    "location": "Europe/UK"
+  },
+  {
+    "name": "CubeCraft",
+    "ip": "play.cubecraft.net",
+    "port": 25565,
+    "version": "1.21+",
+    "description": "Popular EU server with minigames",
+    "location": "Europe/UK"
+  },
+  {
+    "name": "Wynncraft",
+    "ip": "play.wynncraft.com",
+    "port": 25565,
+    "version": "1.7+",
+    "description": "Minecraft MMORPG server with quests and RPG",
+    "location": "Europe/UK"
   }
 ]
