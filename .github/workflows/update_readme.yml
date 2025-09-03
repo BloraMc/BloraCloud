@@ -1,0 +1,33 @@
+name: Update BloraCloud Stats
+
+on:
+  push:
+    paths:
+      - 'indexes/**'
+      - 'README.md'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout repo
+      - uses: actions/checkout@v3
+
+      # Set up Python
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      # Run update script
+      - name: Update README
+        run: python update_readme.py
+
+      # Commit & push updated README using token
+      - name: Commit changes
+        run: |
+          git config --local user.name "BloraCloud Bot"
+          git config --local user.email "info@lystech.org"
+          git add README.md
+          git commit -m "Update BloraCloud stats" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
