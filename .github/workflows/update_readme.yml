@@ -11,19 +11,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo
       - uses: actions/checkout@v3
 
-      # 2️⃣ Set up Python
       - uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      # 3️⃣ Run Python script to update README
       - name: Update README
         run: python update_readme.py
 
-      # 4️⃣ Commit & push updated README using GITHUB_TOKEN
       - name: Commit changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
