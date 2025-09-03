@@ -1,1 +1,26 @@
-
+[
+  {
+    "name": "TryToChill Network",
+    "ip": "play.trytochill.net",
+    "port": 25565,
+    "version": "1.7+",
+    "description": "Fun Minecraft Java + Bedrock server with Bedwars and Faction+",
+    "location": "Europe/France"
+  },
+  {
+    "name": "Blora's Live Server",
+    "ip": "blora.lystech.org",
+    "port": 35994,
+    "version": "1.21.8",
+    "description": "BloraMc server for live streams and events",
+    "location": "Europe/Germany"
+  },
+  {
+    "name": "Hypixel Network",
+    "ip": "bloramc.hypixel.net",
+    "port": 25565,
+    "version": "1.8+",
+    "description": "Official Hypixel server, the largest Minecraft Server",
+    "location": "America/USA"
+  }
+]
