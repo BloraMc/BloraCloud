@@ -7,8 +7,11 @@ Now, it has multiple JSON/TXT files like `mcjavasrv.json`, which stores **Minecr
 ---
 
 **BloraCloud has :**
+
 Indexes : *~ 2*
+
 Data : *~ 40*
+
 
 ## Features
 
