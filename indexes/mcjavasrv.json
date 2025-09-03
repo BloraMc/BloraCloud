@@ -54,5 +54,13 @@
     "version": "1.18.2+",
     "description": "Modern Practice server with Customisable Kits and FFA",
     "location": "America/USA"
+  },
+  {
+    "name": "Sharpness",
+    "ip": "sharpness.gg",
+    "port": 25565,
+    "version": "1.20.1+",
+    "description": "Modern Practice server with FFA",
+    "location": "America/USA"
   }
 ]
