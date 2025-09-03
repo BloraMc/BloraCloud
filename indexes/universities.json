@@ -145,5 +145,75 @@
     "type": "Public",
     "website": "https://www.useoul.edu",
     "description": "South Korea's top university for science, tech, and engineering."
+  },
+  {
+    "name": "California Institute of Technology",
+    "location": "USA/Pasadena, California",
+    "type": "Private",
+    "website": "https://www.caltech.edu",
+    "description": "World-renowned for science and engineering, especially in space and tech."
+  },
+  {
+    "name": "Princeton University",
+    "location": "USA/Princeton, New Jersey",
+    "type": "Private",
+    "website": "https://www.princeton.edu",
+    "description": "Ivy League university with strong programs in sciences, humanities, and engineering."
+  },
+  {
+    "name": "University of Melbourne",
+    "location": "Australia/Melbourne",
+    "type": "Public",
+    "website": "https://www.unimelb.edu.au",
+    "description": "Australia's leading university, strong in research and tech."
+  },
+  {
+    "name": "University of Sydney",
+    "location": "Australia/Sydney",
+    "type": "Public",
+    "website": "https://www.sydney.edu.au",
+    "description": "Top Australian university with strong engineering and business programs."
+  },
+  {
+    "name": "Technical University of Munich",
+    "location": "Germany/Munich",
+    "type": "Public",
+    "website": "https://www.tum.de",
+    "description": "Germany's top engineering and tech university."
+  },
+  {
+    "name": "Delft University of Technology",
+    "location": "Netherlands/Delft",
+    "type": "Public",
+    "website": "https://www.tudelft.nl",
+    "description": "Dutch university known for engineering, design, and innovation."
+  },
+  {
+    "name": "University of Copenhagen",
+    "location": "Denmark/Copenhagen",
+    "type": "Public",
+    "website": "https://www.ku.dk",
+    "description": "Denmark's largest research university, strong in sciences and health."
+  },
+  {
+    "name": "Korea Advanced Institute of Science and Technology",
+    "location": "South Korea/Daejeon",
+    "type": "Public",
+    "website": "https://www.kaist.ac.kr",
+    "description": "South Korea's leading STEM university, focused on tech and innovation."
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "location": "India/Mumbai",
+    "type": "Public",
+    "website": "https://www.iitb.ac.in",
+    "description": "India's top engineering and tech institute."
+  },
+  {
+    "name": "University of Cape Town",
+    "location": "South Africa/Cape Town",
+    "type": "Public",
+    "website": "https://www.uct.ac.za",
+    "description": "Africa's leading university, strong in research and sciences."
   }
 ]
