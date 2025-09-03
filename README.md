@@ -6,6 +6,10 @@ Now, it has multiple JSON/TXT files like `mcjavasrv.json`, which stores **Minecr
 
 ---
 
+**BloraCloud has :**
+<!-- BloraCloud-Stats-Start -->
+<!-- BloraCloud-Stats-End -->
+
 ## Features
 
 * **Community editable:** Everyone can contribute via GitHub.
