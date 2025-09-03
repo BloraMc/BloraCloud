@@ -27,7 +27,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --local user.name "BloraCloud Bot"
-          git config --local user.email "bot@bloracloud.com"
+          git config --local user.email "info@lystech.org"
           git add README.md
           git commit -m "Update BloraCloud stats" || echo "No changes to commit"
           git push
