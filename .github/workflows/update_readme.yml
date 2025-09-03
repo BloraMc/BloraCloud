@@ -11,23 +11,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repo
+      # 1️⃣ Checkout repo
       - uses: actions/checkout@v3
 
-      # Set up Python
+      # 2️⃣ Set up Python
       - uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      # Run update script
+      # 3️⃣ Run Python script to update README
       - name: Update README
         run: python update_readme.py
 
-      # Commit & push updated README using token
+      # 4️⃣ Commit & push updated README using GITHUB_TOKEN
       - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.name "BloraCloud Bot"
           git config --local user.email "info@lystech.org"
           git add README.md
-          git commit -m "Update BloraCloud stats" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git diff-index --quiet HEAD || git commit -m "Update BloraCloud stats"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
