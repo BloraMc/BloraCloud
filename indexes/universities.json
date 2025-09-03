@@ -1,0 +1,149 @@
+[
+  {
+    "name": "The University of Hong Kong",
+    "location": "Hong Kong/Hong Kong Island",
+    "type": "Public",
+    "website": "https://www.hku.hk",
+    "description": "Top university in HK with engineering & CS programs."
+  },
+  {
+    "name": "The Chinese University of Hong Kong",
+    "location": "Hong Kong/Sha Tin",
+    "type": "Public",
+    "website": "https://www.cuhk.edu.hk",
+    "description": "Renowned for research and strong science & tech programs."
+  },
+  {
+    "name": "Hong Kong University of Science and Technology",
+    "location": "Hong Kong/Clear Water Bay",
+    "type": "Public",
+    "website": "https://www.ust.hk",
+    "description": "High-ranked for engineering, computer science, and business."
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "location": "USA/Cambridge, Massachusetts",
+    "type": "Private",
+    "website": "https://www.mit.edu",
+    "description": "World-leading STEM university famous for engineering, AI, and innovation."
+  },
+  {
+    "name": "Harvard University",
+    "location": "USA/Cambridge, Massachusetts",
+    "type": "Private",
+    "website": "https://www.harvard.edu",
+    "description": "Top global university with strong law, business, and research programs."
+  },
+  {
+    "name": "Stanford University",
+    "location": "USA/Stanford, California",
+    "type": "Private",
+    "website": "https://www.stanford.edu",
+    "description": "Prestigious US university known for tech, engineering, and entrepreneurship."
+  },
+  {
+    "name": "University of California, Berkeley",
+    "location": "USA/Berkeley, California",
+    "type": "Public",
+    "website": "https://www.berkeley.edu",
+    "description": "Top public university known for computer science, engineering, and research."
+  },
+  {
+    "name": "ETH Zurich",
+    "location": "Switzerland/Zurich",
+    "type": "Public",
+    "website": "https://ethz.ch",
+    "description": "Europe's top engineering & technology university."
+  },
+  {
+    "name": "EPFL",
+    "location": "Switzerland/Lausanne",
+    "type": "Public",
+    "website": "https://www.epfl.ch",
+    "description": "Swiss federal institute strong in engineering, tech, and innovation."
+  },
+  {
+    "name": "University of Cambridge",
+    "location": "UK/Cambridge",
+    "type": "Public",
+    "website": "https://www.cam.ac.uk",
+    "description": "One of the oldest and most prestigious universities in the world."
+  },
+  {
+    "name": "University of Oxford",
+    "location": "UK/Oxford",
+    "type": "Public",
+    "website": "https://www.ox.ac.uk",
+    "description": "Famous for history, research, and global influence."
+  },
+  {
+    "name": "Sorbonne University",
+    "location": "France/Paris",
+    "type": "Public",
+    "website": "https://www.sorbonne-universite.fr",
+    "description": "Top French university, strong in sciences, humanities, and research."
+  },
+  {
+    "name": "École Polytechnique",
+    "location": "France/Palaiseau",
+    "type": "Public",
+    "website": "https://www.polytechnique.edu",
+    "description": "Prestigious French engineering school, very selective."
+  },
+  {
+    "name": "Université PSL",
+    "location": "France/Paris",
+    "type": "Public",
+    "website": "https://www.univ-psl.fr",
+    "description": "Paris-based university cluster with strong research programs."
+  },
+  {
+    "name": "McGill University",
+    "location": "Canada/Montreal",
+    "type": "Public",
+    "website": "https://www.mcgill.ca",
+    "description": "Top Canadian university known for medicine, law, and sciences."
+  },
+  {
+    "name": "University of Toronto",
+    "location": "Canada/Toronto",
+    "type": "Public",
+    "website": "https://www.utoronto.ca",
+    "description": "Canada’s leading research university with strong engineering and tech."
+  },
+  {
+    "name": "National University of Singapore",
+    "location": "Singapore/Singapore",
+    "type": "Public",
+    "website": "https://www.nus.edu.sg",
+    "description": "Top-ranked Asian university strong in engineering and tech."
+  },
+  {
+    "name": "Tsinghua University",
+    "location": "China/Beijing",
+    "type": "Public",
+    "website": "https://www.tsinghua.edu.cn",
+    "description": "China's top university for engineering, CS, and sciences."
+  },
+  {
+    "name": "Peking University",
+    "location": "China/Beijing",
+    "type": "Public",
+    "website": "https://www.pku.edu.cn",
+    "description": "One of China's oldest and most prestigious universities."
+  },
+  {
+    "name": "University of Tokyo",
+    "location": "Japan/Tokyo",
+    "type": "Public",
+    "website": "https://www.u-tokyo.ac.jp",
+    "description": "Japan's leading research university."
+  },
+  {
+    "name": "Seoul National University",
+    "location": "South Korea/Seoul",
+    "type": "Public",
+    "website": "https://www.useoul.edu",
+    "description": "South Korea's top university for science, tech, and engineering."
+  }
+]
