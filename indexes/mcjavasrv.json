@@ -22,5 +22,37 @@
     "version": "1.8+",
     "description": "Official Hypixel server, the largest Minecraft Server",
     "location": "America/USA"
+  },
+  {
+    "name": "Minemen EU",
+    "ip": "eu.minemen.club",
+    "port": 25565,
+    "version": "1.8+",
+    "description": "Minemen Practice server - Europe",
+    "location": "Europe/France"
+  },
+  {
+    "name": "Minemen AS",
+    "ip": "as.minemen.club",
+    "port": 25565,
+    "version": "1.8+",
+    "description": "Minemen Practice server - Asia",
+    "location": "Asia/Singapore"
+  },
+  {
+    "name": "Minemen NA",
+    "ip": "na.minemen.club",
+    "port": 25565,
+    "version": "1.8+",
+    "description": "Minemen Practice server - North America",
+    "location": "America/USA"
+  },
+  {
+    "name": "PVPLegacy",
+    "ip": "play.pvplegacy.net",
+    "port": 25565,
+    "version": "1.18.2+",
+    "description": "Modern Practice server with Customisable Kits and FFA",
+    "location": "America/USA"
   }
 ]
