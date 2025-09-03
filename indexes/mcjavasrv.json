@@ -1,5 +1,13 @@
 [
   {
+    "name": "Exemple",
+    "ip": "play.exemple.org",
+    "port": 25565,
+    "version": "1.8+",
+    "description": "Exemple Server",
+    "location": "Europe/Paris"
+  },
+  {
     "name": "TryToChill Network",
     "ip": "play.trytochill.net",
     "port": 25565,
