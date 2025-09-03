@@ -7,8 +7,8 @@ Now, it has multiple JSON/TXT files like `mcjavasrv.json`, which stores **Minecr
 ---
 
 **BloraCloud has :**
-<!-- BloraCloud-Stats-Start -->
-<!-- BloraCloud-Stats-End -->
+Indexes : *~ 2*
+Data : *~ 40*
 
 ## Features
 
