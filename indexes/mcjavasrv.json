@@ -102,5 +102,13 @@
     "version": "1.7+",
     "description": "Minecraft MMORPG server with quests and RPG",
     "location": "Europe/UK"
+  },
+  {
+    "name": "Craftok",
+    "ip": "play.craftok.fr",
+    "port": 25565,
+    "version": "1.8+",
+    "description": "Craftok French Minigames Server",
+    "location": "Europe/Roubaix"
   }
 ]
