@@ -110,5 +110,13 @@
     "version": "1.8+",
     "description": "Craftok French Minigames Server",
     "location": "Europe/Roubaix"
+  },
+  {
+    "name": "Hoplite Network",
+    "ip": "hoplite.gg",
+    "port": 25565,
+    "version": "1.21+",
+    "description": "Hoplite Modern Practice Server",
+    "location": "Canada/Lethbridge"
   }
 ]
