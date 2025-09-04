@@ -2,18 +2,23 @@ import os
 import json
 import re
 
-indexes_folder = "indexes"
+folders_to_scan = ["indexes", "Cloud"]
+
 total_data = 0
 total_indexes = 0
 
-for root, _, files in os.walk(indexes_folder):
-    for filename in files:
-        if filename.endswith(".json"):
-            total_indexes += 1
-            filepath = os.path.join(root, filename)
-            with open(filepath, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                total_data += len(data)
+for folder in folders_to_scan:
+    for root, _, files in os.walk(folder):
+        for filename in files:
+            if filename.endswith(".json"):
+                total_indexes += 1
+                filepath = os.path.join(root, filename)
+                with open(filepath, "r", encoding="utf-8") as f:
+                    try:
+                        data = json.load(f)
+                        total_data += len(data)
+                    except Exception as e:
+                        print(f"Failed to load {filepath}: {e}")
 
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
