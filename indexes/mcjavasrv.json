@@ -1,6 +1,6 @@
 [
   {
-    "name": "Exemple",
+    "name": "Exemple Server",
     "ip": "play.exemple.org",
     "port": 25565,
     "version": "1.8+",
