@@ -128,6 +128,6 @@ BloraCloud is **community collaboration**, feel free to contribute ah!
 
 # Rules
 
-* Do **not** add Minecraft servers labeled **Private** or **Apply Only**.
+* Do **not** add Minecraft servers labeled **Private** or **Apply Only** in a list labeled as **Public**
 * Do **not** submit any **private or sensitive information**.
 * Do **not** add index data that could lead to **harmful or dangerous content**.
