@@ -17,8 +17,13 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Update README
+      - name: Install deps
+        run: pip install requests
+
+      - name: Update README and notify Discord
         run: python update_readme.py
+        env:
+          DISCORD_WH: ${{ secrets.DISCORD_WH }}
 
       - name: Commit changes
         env:
