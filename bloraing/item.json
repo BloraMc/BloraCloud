@@ -1,6 +1,14 @@
 {
   "Normal Shop": [
     {
+      "id": "oops",
+      "name": "Admin Item",
+      "price_buy": 1,
+      "price_sell": 10,
+      "description": "Wait ... You're not supposed to have that ? Only when game is in Beta.",
+      "available": true
+    },
+    {
       "id": "sword_diamond",
       "name": "Diamond Sword",
       "price_buy": 500,
@@ -23,6 +31,30 @@
       "price_sell": 5,
       "description": "This is the base food, everyone has it !",
       "available": true
+    },
+    {
+      "id": "bread",
+      "name": "Bread",
+      "price_buy": 12,
+      "price_sell": 10,
+      "description": "Fills you up better than apples.",
+      "available": true
+    },
+    {
+      "id": "shield_wood",
+      "name": "Wooden Shield",
+      "price_buy": 30,
+      "price_sell": 20,
+      "description": "Basic protection against mobs, breaks easily.",
+      "available": true
+    },
+    {
+      "id": "pickaxe_stone",
+      "name": "Stone Pickaxe",
+      "price_buy": 25,
+      "price_sell": 15,
+      "description": "Essential tool for early mining.",
+      "available": true
     }
   ],
   "OP Shop": [
@@ -33,6 +65,30 @@
       "price_sell": 45,
       "description": "Easy tool for mining fast ...",
       "available": true
+    },
+    {
+      "id": "bow_power",
+      "name": "Power Bow",
+      "price_buy": 750,
+      "price_sell": 600,
+      "description": "Shoots arrows with insane force !",
+      "available": true
+    },
+    {
+      "id": "armor_diamond",
+      "name": "Diamond Helmet",
+      "price_buy": 2000,
+      "price_sell": 1500,
+      "description": "Head protection, real OP.",
+      "available": true
+    },
+    {
+      "id": "potion_strength",
+      "name": "Potion of Strength",
+      "price_buy": 300,
+      "price_sell": 200,
+      "description": "Boosts your attack damage for a short time.",
+      "available": true
     }
   ],
   "Mythical Shop": [
@@ -42,7 +98,31 @@
       "price_buy": 5000,
       "price_sell": 4500,
       "description": "This is one of the rarest sword, soo op ! Rarely available ...",
+      "available": true
+    },
+    {
+      "id": "phoenix_feather",
+      "name": "Phoenix Feather",
+      "price_buy": 8000,
+      "price_sell": 7000,
+      "description": "Revives you're pets after death. Extremely rare.",
       "available": false
+    },
+    {
+      "id": "dragon_blade",
+      "name": "Dragon Blade",
+      "price_buy": 12000,
+      "price_sell": 10000,
+      "description": "Forged from dragon fire, unmatched in power.",
+      "available": false
+    },
+    {
+      "id": "orb_time",
+      "name": "Orb of Time",
+      "price_buy": 15000,
+      "price_sell": 12000,
+      "description": "Doesnt do anything, thats just a flex ...",
+      "available": true
     }
   ]
 }
