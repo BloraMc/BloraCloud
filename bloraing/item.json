@@ -23,14 +23,6 @@
       "price_sell": 5,
       "description": "This is the base food, everyone has it !",
       "available": true
-    },
-    {
-      "id": "sword_diamond",
-      "name": "Diamond Sword",
-      "price_buy": 500,
-      "price_sell": 350,
-      "description": "This amazing Sword will let you farm mobs at light speed !",
-      "available": true
     }
   ],
   "OP Shop": [
