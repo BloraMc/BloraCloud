@@ -9,6 +9,14 @@
       "available": true
     },
     {
+      "id": "sword_iron",
+      "name": "Iron Sword",
+      "price_buy": 50,
+      "price_sell": 35,
+      "description": "This basic Sword will let you farm mobs in early game !",
+      "available": true
+    },
+    {
       "id": "apple",
       "name": "Apple",
       "price_buy": 5.5,
