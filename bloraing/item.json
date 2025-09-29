@@ -1,0 +1,48 @@
+{
+  "Normal Shop": [
+    {
+      "id": "sword_diamond",
+      "name": "Diamond Sword",
+      "price_buy": 500,
+      "price_sell": 350,
+      "description": "This amazing Sword will let you farm mobs at light speed !",
+      "available": true
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "price_buy": 5.5,
+      "price_sell": 5,
+      "description": "This is the base food, everyone has it !",
+      "available": true
+    },
+    {
+      "id": "sword_diamond",
+      "name": "Diamond Sword",
+      "price_buy": 500,
+      "price_sell": 350,
+      "description": "This amazing Sword will let you farm mobs at light speed !",
+      "available": true
+    }
+  ],
+  "OP Shop": [
+    {
+      "id": "tnt_classic",
+      "name": "Classic TNT",
+      "price_buy": 50,
+      "price_sell": 45,
+      "description": "Easy tool for mining fast ...",
+      "available": true
+    }
+  ],
+  "Mythical Shop": [
+    {
+      "id": "enderite_picaxe",
+      "name": "Enderite Picaxe",
+      "price_buy": 5000,
+      "price_sell": 4500,
+      "description": "This is one of the rarest sword, soo op ! Rarely available ...",
+      "available": false
+    }
+  ]
+}
