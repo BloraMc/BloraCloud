@@ -126,5 +126,52 @@
     "version": "1.21+",
     "description": "Hoplite Modern Practice Server",
     "location": "North America/Canada/Lethbridge"
+  },
+  {
+    "name": "LifeSteal SMP",
+    "ip": "nm.lifestealsmp.com",
+    "port": 25565,
+    "version": "1.20+",
+    "description": "LifeSteal SMP Season 9 - Popular survival SMP with lifesteal mechanics",
+    "location": "Europe/Germany/Limburg an der Lahn"
+  },
+  {
+    "name": "CatPVP EU",
+    "ip": "eu.catpvp.xyz",
+    "port": 25565,
+    "version": "1.16-1.21",
+    "description": "CatPVP Practice server - Europe",
+    "location": "Europe/Germany/Saarbrücken"
+  },
+  {
+    "name": "CatPVP AS",
+    "ip": "as.catpvp.xyz",
+    "port": 25565,
+    "version": "1.16-1.21",
+    "description": "CatPVP Practice server - Asia",
+    "location": "Asia/Unknown/Unknown"
+  },
+  {
+    "name": "CatPVP East",
+    "ip": "east.catpvp.xyz",
+    "port": 25565,
+    "version": "1.16-1.21",
+    "description": "CatPVP Practice server - North America East",
+    "location": "North America/USA/Unknown"
+  },
+  {
+    "name": "CatPVP West",
+    "ip": "west.catpvp.xyz",
+    "port": 25565,
+    "version": "1.16-1.21",
+    "description": "CatPVP Practice server - North America West",
+    "location": "North America/USA/Unknown"
+  },
+  {
+    "name": "CatPVP AU",
+    "ip": "as.catpvp.xyz",
+    "port": 25565,
+    "version": "1.16-1.21",
+    "description": "CatPVP Practice server - Australia",
+    "location": "Oceania/Australia/Unknown"
   }
-]
