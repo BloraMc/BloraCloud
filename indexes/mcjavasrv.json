@@ -116,7 +116,7 @@
     "ip": "og-network.net",
     "port": 25565,
     "version": "1.8+",
-    "description": "Craftok French Minigames Server",
+    "description": "OG Network - Competitive PvP and Minigames",
     "location": "North America/Canada/Montreal"
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "name": "CatPVP AU",
-    "ip": "as.catpvp.xyz",
+    "ip": "au.catpvp.xyz",
     "port": 25565,
     "version": "1.16-1.21",
     "description": "CatPVP Practice server - Australia",
