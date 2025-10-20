@@ -182,5 +182,21 @@
     "version": "1.8-1.21",
     "description": "Minecraft server network with multiple fun gamemodes, located in East Asia.",
     "location": "Asia/China/Hangzhou"
+  },
+  {
+    "name": "DonutSMP",
+    "ip": "donutsmp.net",
+    "port": 25565,
+    "version": "1.21+",
+    "description": "Survival Minecraft server.",
+    "location": "North America/Canada/Toronto"
+  },
+  {
+    "name": "2B2T",
+    "ip": "2b2t.org",
+    "port": 25565,
+    "version": "1.21.4+",
+    "description": "Minecraft's oldest anarchy server with no rules.",
+    "location": "North America/Canada/Toronto"
   }
 ]
