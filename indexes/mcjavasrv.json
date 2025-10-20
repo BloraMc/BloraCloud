@@ -174,5 +174,13 @@
     "version": "1.16-1.21",
     "description": "CatPVP Practice server - Australia",
     "location": "Oceania/Australia/Unknown"
+  },
+  {
+    "name": "KKCraft",
+    "ip": "mc.163mc.cn",
+    "port": 25565,
+    "version": "1.8-1.21",
+    "description": "Minecraft server network with multiple fun gamemodes, located in East Asia.",
+    "location": "Asia/China/Hangzhou"
   }
 ]
